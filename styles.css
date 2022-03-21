@@ -49,6 +49,7 @@
 }
 
 .top-body-part {
+
   display: flex;
   flex-direction: column;
 }
@@ -61,4 +62,15 @@
 img {
   width: 100px;
   height: 100px;
+}
+
+.title {
+  text-align: center;
+}
+
+
+.bottom-body-part {
+  background-color: #E5E7EB;
+  color: #1F2937;
+  text-align: center;
 }
